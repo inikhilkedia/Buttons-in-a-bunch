@@ -3,6 +3,8 @@ Coding Challenge Exercise for Minted
 
 ![alt text](https://github.com/inikhilkedia/Buttons-in-a-bunch/blob/master/Screenshot.png "Buttons in a Bunch Screenshot")
 
+The buttons are created and rendered dynamically. The buttons trigger an alert showing their respective `id` which was dynamically assigned to them at creation.
+
 ## How to run the app?
 
 In the project directory, you can run:
