@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.585" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2019-09-01T05:16:54" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="button click test" timestamp="2019-09-01T05:16:54" tests="2" file="/Users/nikhilkedia/button-in-bunch-e926n2n9qp/test/test.js" failures="0" time="0.585">
+    <testcase name="button click test should test load the page" time="0.006" classname="should test load the page">
+    </testcase>
+    <testcase name="button click test should click button 1" time="0.579" classname="should click button 1">
+    </testcase>
+  </testsuite>
+</testsuites>
